@@ -6,7 +6,7 @@ export const Certificates = () =>{
   <h1 class="cssanimation sequence fadeInBottom">
   <div class="card container">
     <br/>
-    <img src={Apps} alt="certificates" class="img-size"/><strong class="font alert alert-success">Python Basic Completed </strong>
+    <img src={Apps} alt="certificates" class="img-size"/><strong class="font alert alert-success">Certified By TCS to Coomplete Python Traning </strong>
     </div>
     </h1>
     </div>

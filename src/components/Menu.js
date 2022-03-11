@@ -30,7 +30,7 @@ export const Menu = () => {
           <hr/>
           <br/>
           <div class="container">
-            <strong class="text-white menu-font" style={{width : "100%" , height : "100%"}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certification Details&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+            <a href="/Certi"><strong class="text-white menu-font" style={{width : "100%" , height : "100%"}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certification Details&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></a>
           </div>
           <hr/>
           <br/>
