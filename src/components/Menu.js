@@ -1,7 +1,7 @@
 import dp from '../Images/Photos/Photo-Dashboard.png'
 import basicimage from '../Images/Icons/Menu/Basic-Details.png'
 export const Menu = () => {
-    return <div >
+    return <div class="certi-set" >
       <div class="containeter">
         <br/>
 <div class="container text-center">
