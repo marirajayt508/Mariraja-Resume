@@ -1,11 +1,11 @@
 import { Routes,Route } from "react-router-dom"
 import { BrowserRouter } from "react-router-dom"
-import {Certificates} from './Certificates'
+import { Nc } from "./Normal-Certificate"
 export const Routers = () => {
     return <div>
    <BrowserRouter>
    <Routes>
-        <Route path="/Certi" element={<Certificates/>}/>
+        <Route path="/Certi" element={<Nc/>}/>
     </Routes>
    </BrowserRouter>
 </div>

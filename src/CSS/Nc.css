@@ -1,0 +1,10 @@
+.img-size{
+height: 60%;
+width : 60%;
+}
+
+.certi-body{
+    background-image: url('../Images/bgimages/certibg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

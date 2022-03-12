@@ -1,13 +1,15 @@
 import dp from '../Images/Photos/Photo-Dashboard.png'
 import basicimage from '../Images/Icons/Menu/Basic-Details.png'
+import '../CSS/Menu.css'
 export const Menu = () => {
     return <div class="certi-set" >
       <div class="containeter">
-        <br/>
-<div class="container text-center">
-  <img src={dp} class="dp-control" alt="DP"/>
-</div>
-        <hr/>
+test
+    </div></div>
+          
+}
+
+/*        <hr/>
         <br/>
           <div class="container">
           <strong class="text-white menu-font" style={{width : "100%" , height : "100%"}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic Details&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
@@ -42,9 +44,4 @@ export const Menu = () => {
           <div class="container">
             <strong class="text-white menu-font" style={{width : "100%" , height : "100%"}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download Resume &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
           </div>
-<br/>
-         
-      </div>
-    </div>
-          
-}
+<br/>*/
